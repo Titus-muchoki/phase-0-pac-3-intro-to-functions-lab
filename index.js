@@ -14,3 +14,12 @@ function shout(string) {
     logWhisper = "HELLO";
     console.log(logWhisper.toLowerCase());
   }
+  function sayHiToHeadphonedRoommate(string) {
+    sayHiToHeadphonedRoommate = "i can\'t hear you!"+ " I can\'t hear you!";
+    return sayHiToHeadphonedRoommate.toLowerCase();
+  }
+  // function sayHiToHeadphonedRoommate(string) {
+  //   if(sayHiToHeadphonedRoommate.toLowerCase){
+
+  //   }
+  // }
